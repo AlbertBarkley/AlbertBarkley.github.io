@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AlbertBarkley.github.io
+title: Albert Barkley's Personal Blog
+email: albertbarkleyicon@gmail.com
+author: Albert Barkley
+description: This is Albert Barkley's personal blog where you will be provided education tips, writing tips to get your degree completed.
+paginate: 4
+google_analytics: 
